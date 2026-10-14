@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # REQUIEM - herramienta interactiva de reconocimiento web y generación de informes.
-# Uso autorizado: activos propios o con permiso explícito.
 
 import argparse
 import json
